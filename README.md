@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![logo](https://github.com/suren015/suren015/blob/main/se9FDB.webp)
 <h1 align="center">Hi 👋, I'm Surendra Tholiya</h1>
 <h3 align="center">A Competitive Coder and a Beginner in Front-end Web-Development</h3>
 <img align="right" alt="coding" width='400" src="https://stock.adobe.com/search?k=programmer+cartoon">
