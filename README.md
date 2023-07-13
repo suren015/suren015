@@ -1,4 +1,4 @@
-<img src="https://github.com/suren015/suren015/blob/main/suren_015%20(1).gif" width="100%" height="30%" alt="logo">
+<img src="https://github.com/suren015/suren015/blob/main/suren_015%20(1).gif" width="100%" height="500" alt="logo">
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">, I'm Surendra Tholiya</h1>
 <h3 align="center">A Competitive Coder and a Beginner in Front-end Web-Development</h3>
